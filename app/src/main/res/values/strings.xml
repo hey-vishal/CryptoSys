@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CryptoSys</string>
+    <string name="currency">currency</string>
+    <string name="title">Title</string>
+    <string name="search">Search</string>
+    <string name="please_check_your_internet_connection">Please, Check Your Internet Connection</string>
+</resources>
